@@ -1,2 +1,2 @@
-# GamingApp
-From Mosh React Course. Trying on my own and using the videos as needed. Chakra for the UI, Vite, axios
+# Practice for Capstone
+Made a Game Hub app, this is reworked for practice on the AutoZone practice. Chakra for the UI, Vite, axios
